@@ -6,3 +6,39 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/esojlm5/rimac-challenge.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd rimac-challenge
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   yarn install
+   ```
+
+## Usage
+
+1. Start the development server:
+
+   ```bash
+   yarn dev
+   ```
+
+2. Build the project:
+
+   ```bash
+   yarn build
+   ```
+
+   This will launch the project in your default browser. The page auto-updates as you edit the files.
